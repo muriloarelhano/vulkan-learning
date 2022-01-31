@@ -5,8 +5,8 @@
     {
       "type": "default",
       "project": "CMakeLists.txt",
-      "projectTarget": "NextCubeEngine.exe (NextCubeEngine\\NextCubeEngine.exe)",
-      "name": "NextCubeEngine.exe (NextCubeEngine\\NextCubeEngine.exe)"
+      "projectTarget": "HeavenEngine.exe (HeavenEngine\\HeavenEngine.exe)",
+      "name": "HeavenEngine.exe (HeavenEngine\\HeavenEngine.exe)"
     }
   ]
 }
