@@ -9,7 +9,8 @@
 #include <vector>
 #include <cstdlib>
 #include <QueueFamily.h>
-#include <VkValidation.cpp>
+#include <VkValidation.h>
+
 
 using namespace std;
 

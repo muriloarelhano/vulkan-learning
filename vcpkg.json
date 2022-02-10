@@ -1,0 +1,8 @@
+{
+  "name": "heavenengine",
+  "version-string": "1.0.0",
+  "dependencies": [
+    "glm",
+    "glfw3"
+  ]
+}

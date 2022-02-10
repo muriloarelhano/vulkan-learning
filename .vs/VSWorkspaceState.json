@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\external"
+    "\\src",
+    "\\src\\core",
+    "\\src\\utilities"
   ],
   "SelectedNode": "\\CMakeLists.txt",
   "PreviewInSolutionExplorer": false
