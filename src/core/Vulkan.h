@@ -34,10 +34,12 @@ namespace Heaven {
 		bool checkInstanceExtensionSupport(vector<const char*>* checkExtensions);
 		bool checkDeviceSuitable(VkPhysicalDevice device);
 		bool checkValidationLayerSupport();
+		std::vector<const char*> getRequiredExtensions();
 
 		QueueFamilyIndices getQueueFamily(VkPhysicalDevice device);
 
 	private:
+		VkValidation VkValidation;
 		VkInstance instance;
 		VkDebugUtilsMessengerEXT debugMessenger;
 		VkQueue graphicsQueue;
