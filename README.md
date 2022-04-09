@@ -1,9 +1,9 @@
 ## Libraries
 
-###Public
+### Public
 
 * GLM
 
-###Private
+### Private
 
 *GLFW
